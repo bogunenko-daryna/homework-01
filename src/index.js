@@ -8,3 +8,7 @@ jsImageHtml.className = 'js-image';
 jsImageHtml.src = JS_IMAGE;
 
 document.body.append(jsImageHtml)
+
+
+
+console.log('Hello world!')
